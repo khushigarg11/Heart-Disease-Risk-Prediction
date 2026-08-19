@@ -188,4 +188,4 @@ if st.button("Predict Heart Disease Risk", use_container_width=True):
 
 st.divider()
 
-st.caption("Developed by Amam Jain ❤️")
+st.caption("Developed by Khushi Garg ❤️")
