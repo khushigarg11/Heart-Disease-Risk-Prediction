@@ -110,7 +110,7 @@ column order with `joblib` for use in the deployed app.
 `app.py` is a **Streamlit** application that puts the trained KNN model in
 front of an end user, and is live at:
 
-**https://heart-disease-prediction-app-45xjpwztphqm2d82ogs6cz.streamlit.app/**
+**https://heart-disease-risk-prediction-7fxygozafppsdg3htdzalv.streamlit.app/**
 
 It works as follows:
 
@@ -168,7 +168,7 @@ Python · Pandas · NumPy · Matplotlib · Seaborn · scikit-learn · joblib · 
 ## Setup & Usage
 
 The app is already deployed and usable directly at
-**https://heart-disease-prediction-app-45xjpwztphqm2d82ogs6cz.streamlit.app/**
+**https://heart-disease-risk-prediction-7fxygozafppsdg3htdzalv.streamlit.app/**
 — no setup needed. To run it locally instead:
 
 **1. Run the notebook first** to generate the model artifacts:
