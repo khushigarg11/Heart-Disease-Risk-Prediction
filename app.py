@@ -23,7 +23,7 @@ expected_columns = joblib.load("columns.pkl")
 # ---------------------------------
 st.sidebar.title("❤️ Health Predictor")
 st.sidebar.markdown("### Developed By")
-st.sidebar.success("Amam Jain")
+st.sidebar.success("Khushi Garg")
 
 # ---------------------------------
 # Title
