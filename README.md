@@ -30,7 +30,7 @@ instant risk prediction.
 > (F1 = 0.899), narrowly ahead of Logistic Regression (87.5%), and is the
 > model deployed in the live app.
 
-**Live demo:** https://heart-disease-prediction-app-45xjpwztphqm2d82ogs6cz.streamlit.app/
+**Live demo:** https://heart-disease-risk-prediction-7fxygozafppsdg3htdzalv.streamlit.app/
 
 ## Dataset
 
